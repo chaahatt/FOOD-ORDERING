@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oleave</title>
+    <link rel="icon" href="oleave_logo.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="admin.css">
+
+</head>
+<body>
+    <div class="vendor-dashboard">
+        <h2>Vendor Dashboard</h2>
+        <div class="order-list">
+            <!-- Orders will be dynamically added here by JavaScript -->
+        </div>
+        <div id="qr-scanner-container" class="hidden">
+            <div id="qr-reader"></div>
+            <button id="stop-scanner-btn">Stop Scanning</button>
+        </div>
+        <button id="start-scanner-btn" class="hidden">Start QR Scanner</button>
+    </div>
+    
+        <!-- Start Scan Button -->
+        <button id="start-scanner-btn" class="hidden">Start QR Scanner</button>
+    </div>
+    <script src="https://unpkg.com/html5-qrcode/minified/html5-qrcode.min.js"></script>
+    <script src="admin.js"></script>
+</body>
+</html>
