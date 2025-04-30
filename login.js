@@ -1,3 +1,4 @@
+//login
 document.addEventListener('DOMContentLoaded', () => {
     const loginButton = document.querySelector('#button'); 
     const emailInput = document.querySelector('#emaili[type="email"]');

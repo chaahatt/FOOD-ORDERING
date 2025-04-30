@@ -48,7 +48,7 @@
 //             removetext.innerHTML = `<h3 id="heading">Explore our delicious menu!</h3>`;
 //         }
 //     };
-
+//  // jss
 //     const addToCart = (id) => {
 //         const existingCartItem = carts.find(cartItem => cartItem.product_id == id);
 //         if (existingCartItem) {

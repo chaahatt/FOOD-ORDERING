@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const stopScannerBtn = document.getElementById('stop-scanner-btn');
   let qrScanner = null;
   let currentOrderId = null;
-
+//load data
   // Load data from localStorage or use default data if not available
   const initializeData = () => {
     // Check if orders exist in localStorage, if not, use the default one

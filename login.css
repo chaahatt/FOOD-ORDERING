@@ -74,6 +74,7 @@
     outline: none;
     /* border-bottom: 3px solid rgb(255, 255, 255); */
 }
+/* pass */
 #password{
     display: flex;
     flex-direction: column;

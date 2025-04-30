@@ -1,7 +1,7 @@
 // customer.js - Handles the customer-side order placement and status tracking
 
 let orderPlaced = false;
-
+//time slots
 // Generate time slots dynamically
 function generateTimeSlots() {
   const select = document.getElementById("time-slot");

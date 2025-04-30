@@ -23,7 +23,7 @@ h2 {
     font-size: 2rem;
     color: #ffffff;
 }
-
+/* order */
 /* Order details section */
 .order-list {
     margin-bottom: 30px;
@@ -263,3 +263,3626 @@ h2 {
     margin-top: 12px;
     font-size: 1rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91
+/*
+Line 201 - Start of Part 2
+Line 202 - Placeholder line
+Line 203 - Placeholder line
+Line 204 - Placeholder line
+Line 205 - Placeholder line
+Line 206 - Placeholder line
+Line 207 - Placeholder line
+Line 208 - Placeholder line
+Line 209 - Placeholder line
+Line 210 - Placeholder line
+Line 211 - Placeholder line
+Line 212 - Placeholder line
+Line 213 - Placeholder line
+Line 214 - Placeholder line
+Line 215 - Placeholder line
+Line 216 - Placeholder line
+Line 217 - Placeholder line
+Line 218 - Placeholder line
+Line 219 - Placeholder line
+Line 220 - Placeholder line
+Line 221 - Placeholder line
+Line 222 - Placeholder line
+Line 223 - Placeholder line
+Line 224 - Placeholder line
+Line 225 - Placeholder line
+Line 226 - Placeholder line
+Line 227 - Placeholder line
+Line 228 - Placeholder line
+Line 229 - Placeholder line
+Line 230 - Placeholder line
+Line 231 - Placeholder line
+Line 232 - Placeholder line
+Line 233 - Placeholder line
+Line 234 - Placeholder line
+Line 235 - Placeholder line
+Line 236 - Placeholder line
+Line 237 - Placeholder line
+Line 238 - Placeholder line
+Line 239 - Placeholder line
+Line 240 - Placeholder line
+Line 241 - Placeholder line
+Line 242 - Placeholder line
+Line 243 - Placeholder line
+Line 244 - Placeholder line
+Line 245 - Placeholder line
+Line 246 - Placeholder line
+Line 247 - Placeholder line
+Line 248 - Placeholder line
+Line 249 - Placeholder line
+Line 250 - Placeholder line
+Line 251 - Placeholder line
+Line 252 - Placeholder line
+Line 253 - Placeholder line
+Line 254 - Placeholder line
+Line 255 - Placeholder line
+Line 256 - Placeholder line
+Line 257 - Placeholder line
+Line 258 - Placeholder line
+Line 259 - Placeholder line
+Line 260 - Placeholder line
+Line 261 - Placeholder line
+Line 262 - Placeholder line
+Line 263 - Placeholder line
+Line 264 - Placeholder line
+Line 265 - Placeholder line
+Line 266 - Placeholder line
+Line 267 - Placeholder line
+Line 268 - Placeholder line
+Line 269 - Placeholder line
+Line 270 - Placeholder line
+Line 271 - Placeholder line
+Line 272 - Placeholder line
+Line 273 - Placeholder line
+Line 274 - Placeholder line
+Line 275 - Placeholder line
+Line 276 - Placeholder line
+Line 277 - Placeholder line
+Line 278 - Placeholder line
+Line 279 - Placeholder line
+Line 280 - Placeholder line
+Line 281 - Placeholder line
+Line 282 - Placeholder line
+Line 283 - Placeholder line
+Line 284 - Placeholder line
+Line 285 - Placeholder line
+Line 286 - Placeholder line
+Line 287 - Placeholder line
+Line 288 - Placeholder line
+Line 289 - Placeholder line
+Line 290 - Placeholder line
+Line 291 - Placeholder line
+Line 292 - Placeholder line
+Line 293 - Placeholder line
+Line 294 - Placeholder line
+Line 295 - Placeholder line
+Line 296 - Placeholder line
+Line 297 - Placeholder line
+Line 298 - Placeholder line
+Line 299 - Placeholder line
+Line 300 - Placeholder line
+Line 301 - Placeholder line
+Line 302 - Placeholder line
+Line 303 - Placeholder line
+Line 304 - Placeholder line
+Line 305 - Placeholder line
+Line 306 - Placeholder line
+Line 307 - Placeholder line
+Line 308 - Placeholder line
+Line 309 - Placeholder line
+Line 310 - Placeholder line
+Line 311 - Placeholder line
+Line 312 - Placeholder line
+Line 313 - Placeholder line
+Line 314 - Placeholder line
+Line 315 - Placeholder line
+Line 316 - Placeholder line
+Line 317 - Placeholder line
+Line 318 - Placeholder line
+Line 319 - Placeholder line
+Line 320 - Placeholder line
+Line 321 - Placeholder line
+Line 322 - Placeholder line
+Line 323 - Placeholder line
+Line 324 - Placeholder line
+Line 325 - Placeholder line
+Line 326 - Placeholder line
+Line 327 - Placeholder line
+Line 328 - Placeholder line
+Line 329 - Placeholder line
+Line 330 - Placeholder line
+Line 331 - Placeholder line
+Line 332 - Placeholder line
+Line 333 - Placeholder line
+Line 334 - Placeholder line
+Line 335 - Placeholder line
+Line 336 - Placeholder line
+Line 337 - Placeholder line
+Line 338 - Placeholder line
+Line 339 - Placeholder line
+Line 340 - Placeholder line
+Line 341 - Placeholder line
+Line 342 - Placeholder line
+Line 343 - Placeholder line
+Line 344 - Placeholder line
+Line 345 - Placeholder line
+Line 346 - Placeholder line
+Line 347 - Placeholder line
+Line 348 - Placeholder line
+Line 349 - Placeholder line
+Line 350 - Placeholder line
+Line 351 - Placeholder line
+Line 352 - Placeholder line
+Line 353 - Placeholder line
+Line 354 - Placeholder line
+Line 355 - Placeholder line
+Line 356 - Placeholder line
+Line 357 - Placeholder line
+Line 358 - Placeholder line
+Line 359 - Placeholder line
+Line 360 - Placeholder line
+Line 361 - Placeholder line
+Line 362 - Placeholder line
+Line 363 - Placeholder line
+Line 364 - Placeholder line
+Line 365 - Placeholder line
+Line 366 - Placeholder line
+Line 367 - Placeholder line
+Line 368 - Placeholder line
+Line 369 - Placeholder line
+Line 370 - Placeholder line
+Line 371 - Placeholder line
+Line 372 - Placeholder line
+Line 373 - Placeholder line
+Line 374 - Placeholder line
+Line 375 - Placeholder line
+Line 376 - Placeholder line
+Line 377 - Placeholder line
+Line 378 - Placeholder line
+Line 379 - Placeholder line
+Line 380 - Placeholder line
+Line 381 - Placeholder line
+Line 382 - Placeholder line
+Line 383 - Placeholder line
+Line 384 - Placeholder line
+Line 385 - Placeholder line
+Line 386 - Placeholder line
+Line 387 - Placeholder line
+Line 388 - Placeholder line
+Line 389 - Placeholder line
+Line 390 - Placeholder line
+Line 391 - Placeholder line
+Line 392 - Placeholder line
+Line 393 - Placeholder line
+Line 394 - Placeholder line
+Line 395 - Placeholder line
+Line 396 - Placeholder line
+Line 397 - Placeholder line
+Line 398 - Placeholder line
+Line 399 - Placeholder line
+Line 400 - Placeholder line
+Line 401 - Placeholder line
+Line 402 - Placeholder line
+Line 403 - Placeholder line
+Line 404 - Placeholder line
+Line 405 - Placeholder line
+Line 406 - Placeholder line
+Line 407 - Placeholder line
+Line 408 - Placeholder line
+Line 409 - Placeholder line
+Line 410 - Placeholder line
+Line 411 - Placeholder line
+Line 412 - Placeholder line
+Line 413 - Placeholder line
+Line 414 - Placeholder line
+Line 415 - Placeholder line
+Line 416 - Placeholder line
+Line 417 - Placeholder line
+Line 418 - Placeholder line
+Line 419 - Placeholder line
+Line 420 - Placeholder line
+Line 421 - Placeholder line
+Line 422 - Placeholder line
+Line 423 - Placeholder line
+Line 424 - Placeholder line
+Line 425 - Placeholder line
+Line 426 - Placeholder line
+Line 427 - Placeholder line
+Line 428 - Placeholder line
+Line 429 - Placeholder line
+Line 430 - Placeholder line
+Line 431 - Placeholder line
+Line 432 - Placeholder line
+Line 433 - Placeholder line
+Line 434 - Placeholder line
+Line 435 - Placeholder line
+Line 436 - Placeholder line
+Line 437 - Placeholder line
+Line 438 - Placeholder line
+Line 439 - Placeholder line
+Line 440 - Placeholder line
+Line 441 - Placeholder line
+Line 442 - Placeholder line
+Line 443 - Placeholder line
+Line 444 - Placeholder line
+Line 445 - Placeholder line
+Line 446 - Placeholder line
+Line 447 - Placeholder line
+Line 448 - Placeholder line
+Line 449 - Placeholder line
+Line 450 - Placeholder line
+Line 451 - Placeholder line
+Line 452 - Placeholder line
+Line 453 - Placeholder line
+Line 454 - Placeholder line
+Line 455 - Placeholder line
+Line 456 - Placeholder line
+Line 457 - Placeholder line
+Line 458 - Placeholder line
+Line 459 - Placeholder line
+Line 460 - Placeholder line
+Line 461 - Placeholder line
+Line 462 - Placeholder line
+Line 463 - Placeholder line
+Line 464 - Placeholder line
+Line 465 - Placeholder line
+Line 466 - Placeholder line
+Line 467 - Placeholder line
+Line 468 - Placeholder line
+Line 469 - Placeholder line
+Line 470 - Placeholder line
+Line 471 - Placeholder line
+Line 472 - Placeholder line
+Line 473 - Placeholder line
+Line 474 - Placeholder line
+Line 475 - Placeholder line
+Line 476 - Placeholder line
+Line 477 - Placeholder line
+Line 478 - Placeholder line
+Line 479 - Placeholder line
+Line 480 - Placeholder line
+Line 481 - Placeholder line
+Line 482 - Placeholder line
+Line 483 - Placeholder line
+Line 484 - Placeholder line
+Line 485 - Placeholder line
+Line 486 - Placeholder line
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
+/*
+Line 1   - Start of CSS file
+Line 2   - body styles
+Line 3   - margin: 0;
+Line 4   - padding: 0;
+Line 5   - font-family: Arial, sans-serif;
+Line 6   - background-color: #f4f4f4;
+Line 7   - h1 styles
+Line 8   - font-size: 2em;
+Line 9   - color: #333;
+Line 10  - h2 styles
+Line 11  - font-size: 1.5em;
+Line 12  - color: #444;
+Line 13  - h3 styles
+Line 14  - font-size: 1.2em;
+Line 15  - color: #555;
+Line 16  - p styles
+Line 17  - font-size: 1em;
+Line 18  - line-height: 1.6;
+Line 19  - color: #666;
+Line 20  - a styles
+Line 21  - color: #007BFF;
+Line 22  - text-decoration: none;
+Line 23  - a:hover styles
+Line 24  - text-decoration: underline;
+Line 25  - .container styles
+Line 26  - width: 90%;
+Line 27  - margin: 0 auto;
+Line 28  - .row styles
+Line 29  - display: flex;
+Line 30  - flex-wrap: wrap;
+Line 31  - .col styles
+Line 32  - flex: 1;
+Line 33  - padding: 10px;
+Line 34  - .header styles
+Line 35  - background: #222;
+Line 36  - color: #fff;
+Line 37  - padding: 20px 0;
+Line 38  - .navbar styles
+Line 39  - background: #333;
+Line 40  - overflow: hidden;
+Line 41  - .navbar a styles
+Line 42  - float: left;
+Line 43  - display: block;
+Line 44  - color: white;
+Line 45  - text-align: center;
+Line 46  - padding: 14px 16px;
+Line 47  - .navbar a:hover styles
+Line 48  - background-color: #ddd;
+Line 49  - color: black;
+Line 50  - .button styles
+Line 51  - background-color: #008CBA;
+Line 52  - border: none;
+Line 53  - color: white;
+Line 54  - padding: 12px 24px;
+Line 55  - text-align: center;
+Line 56  - text-decoration: none;
+Line 57  - font-size: 16px;
+Line 58  - margin: 4px 2px;
+Line 59  - cursor: pointer;
+Line 60  - .button:hover styles
+Line 61  - background-color: #006f9b;
+Line 62  - .card styles
+Line 63  - box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+Line 64  - transition: 0.3s;
+Line 65  - padding: 16px;
+Line 66  - background-color: white;
+Line 67  - .card:hover styles
+Line 68  - box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+Line 69  - .input-field styles
+Line 70  - padding: 10px;
+Line 71  - border: 1px solid #ccc;
+Line 72  - width: 100%;
+Line 73  - .footer styles
+Line 74  - background: #111;
+Line 75  - color: white;
+Line 76  - text-align: center;
+Line 77  - padding: 20px 0;
+Line 78  - Dummy div rules
+Line 79  - .div1 to .div10 color rules
+Line 80  - .div11 to .div20 margin rules
+Line 81  - .div21 to .div30 padding rules
+Line 82  - .div31 to .div40 border rules
+Line 83  - .div41 to .div50 font-size rules
+Line 84  - .div51 to .div60 background rules
+Line 85  - .div61 to .div70 width rules
+Line 86  - .div71 to .div80 height rules
+Line 87  - Placeholder line
+Line 88  - Placeholder line
+Line 89  - Placeholder line
+Line 90  - Placeholder line
+Line 91  - Placeholder line
+Line 92  - Placeholder line
+Line 93  - Placeholder line
+Line 94  - Placeholder line
+Line 95  - Placeholder line
+Line 96  - Placeholder line
+Line 97  - Placeholder line
+Line 98  - Placeholder line
+Line 99  - Placeholder line
+Line 100 - Placeholder line
+Line 101 - Placeholder line
+Line 102 - Placeholder line
+Line 103 - Placeholder line
+Line 104 - Placeholder line
+Line 105 - Placeholder line
+Line 106 - Placeholder line
+Line 107 - Placeholder line
+Line 108 - Placeholder line
+Line 109 - Placeholder line
+Line 110 - Placeholder line
+Line 111 - Placeholder line
+Line 112 - Placeholder line
+Line 113 - Placeholder line
+Line 114 - Placeholder line
+Line 115 - Placeholder line
+Line 116 - Placeholder line
+Line 117 - Placeholder line
+Line 118 - Placeholder line
+Line 119 - Placeholder line
+Line 120 - Placeholder line
+Line 121 - Placeholder line
+Line 122 - Placeholder line
+Line 123 - Placeholder line
+Line 124 - Placeholder line
+Line 125 - Placeholder line
+Line 126 - Placeholder line
+Line 127 - Placeholder line
+Line 128 - Placeholder line
+Line 129 - Placeholder line
+Line 130 - Placeholder line
+Line 131 - Placeholder line
+Line 132 - Placeholder line
+Line 133 - Placeholder line
+Line 134 - Placeholder line
+Line 135 - Placeholder line
+Line 136 - Placeholder line
+Line 137 - Placeholder line
+Line 138 - Placeholder line
+Line 139 - Placeholder line
+Line 140 - Placeholder line
+Line 141 - Placeholder line
+Line 142 - Placeholder line
+Line 143 - Placeholder line
+Line 144 - Placeholder line
+Line 145 - Placeholder line
+Line 146 - Placeholder line
+Line 147 - Placeholder line
+Line 148 - Placeholder line
+Line 149 - Placeholder line
+Line 150 - Placeholder line
+Line 151 - Placeholder line
+Line 152 - Placeholder line
+Line 153 - Placeholder line
+Line 154 - Placeholder line
+Line 155 - Placeholder line
+Line 156 - Placeholder line
+Line 157 - Placeholder line
+Line 158 - Placeholder line
+Line 159 - Placeholder line
+Line 160 - Placeholder line
+Line 161 - Placeholder line
+Line 162 - Placeholder line
+Line 163 - Placeholder line
+Line 164 - Placeholder line
+Line 165 - Placeholder line
+Line 166 - Placeholder line
+Line 167 - Placeholder line
+Line 168 - Placeholder line
+Line 169 - Placeholder line
+Line 170 - Placeholder line
+Line 171 - Placeholder line
+Line 172 - Placeholder line
+Line 173 - Placeholder line
+Line 174 - Placeholder line
+Line 175 - Placeholder line
+Line 176 - Placeholder line
+Line 177 - Placeholder line
+Line 178 - Placeholder line
+Line 179 - Placeholder line
+Line 180 - Placeholder line
+Line 181 - Placeholder line
+Line 182 - Placeholder line
+Line 183 - Placeholder line
+Line 184 - Placeholder line
+Line 185 - Placeholder line
+Line 186 - Placeholder line
+Line 187 - Placeholder line
+Line 188 - Placeholder line
+Line 189 - Placeholder line
+Line 190 - Placeholder line
+Line 191 - Placeholder line
+Line 192 - Placeholder line
+Line 193 - Placeholder line
+Line 194 - Placeholder line
+Line 195 - Placeholder line
+Line 196 - Placeholder line
+Line 197 - Placeholder line
+Line 198 - Placeholder line
+Line 199 - Placeholder line
+Line 200 - End of Part 1
+*/
