@@ -1,3 +1,4 @@
+// loader
 function startLoader(){
     let counterElement=document.querySelector(".counter");
     let currentValue=0;
