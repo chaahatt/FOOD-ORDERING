@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-
+// animation
     revealTransition().then(() => {
         gsap.set(".block", { visibility: "hidden" });
     });
