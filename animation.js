@@ -25,3 +25,10 @@ function revealTransition() {
                 ".block",
                 { scaleY: 1 },
                 {
+scaleY: 0,
+                    duration: 1,
+                    stagger: {
+                        each: 0.1,
+                        from: "start",
+                        axis: "x",
+                    },
