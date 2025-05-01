@@ -32,3 +32,11 @@ scaleY: 0,
                         from: "start",
                         axis: "x",
                     },
+ease: ease,
+                    onComplete: resolve,
+                }
+            );
+        });
+    }
+
+    function animateOutTransition() {
