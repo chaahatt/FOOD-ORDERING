@@ -10,3 +10,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 animateOutTransition().then(() => {
                     window.location.href = href;
                 });
+    }
+        });
+    });
+
+// animation
+    revealTransition().then(() => {
+        gsap.set(".block", { visibility: "hidden" });
+    });
