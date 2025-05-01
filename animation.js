@@ -46,4 +46,14 @@ ease: ease,
             gsap.to(".block", {
                 scaleY: 1,
                 duration: 1,
+stagger: {
+                    each: 0.1,
+                    from: "start",
+                    axis: "x",
+                },
+                ease: ease,
+                onComplete: resolve,
+            });
+        });
+    }
 
