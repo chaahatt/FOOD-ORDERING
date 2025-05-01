@@ -211,3 +211,104 @@ family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,1
                         <div class="card__vendor" role="img" aria-labelledby="card-vendor">
                             <span id="card-vendor" class="card__vendor-sr">MasterCard</span>
                         </div>
+<div class="card__texture"></div>
+                    
+                    </div>
+                </div>
+        
+                <!-- Input Form -->
+               
+                    <div class="row">
+                        <div class="column">
+                            <label for="name" id="name2">Cardholder Name</label>
+                            <input type="text" id="name" placeholder="Enter your name">
+                        </div>
+                        <div class="column">
+                            <label for="expiry" id="expiry2">Expiry Date (MM/YY)</label>
+                            <input type="text" id="expiry" maxlength="5" placeholder="MM/YY">
+                        </div>
+                    </div>
+                    <div class="row full-width">
+                        <label for="number"id="number2">Card Number</label>
+                        <input type="text" id="number" maxlength="16" placeholder="#### #### #### ####">
+                    <button id="buttonp" onclick="window.location.href='qr_and_slot.html'">Proceeed to pay</button>
+                    </div>
+            </div>
+        
+    </div></div>
+    <script>
+        const cardName = document.getElementById("cardName");
+        const cardNumber = document.getElementById("cardNumber");
+        const cardExpDate = document.getElementById("cardExpDate");
+        const inputName = document.getElementById("name");
+        const inputNumber = document.getElementById("number");
+        const inputExpiry = document.getElementById("expiry");
+        inputName.addEventListener("input", () => {
+            cardName.textContent = inputName.value || "Cardholder Name";
+        });
+        inputNumber.addEventListener("input", () => {
+            const formattedNumber = inputNumber.value.replace(/\D/g, "").replace(/(.{4})/g, "$1 ").trim();
+            cardNumber.innerHTML = formattedNumber || "#### #### #### ####";
+        });
+        inputExpiry.addEventListener("input", () => {
+            const formattedDate = inputExpiry.value.replace(/[^0-9/]/g, "").replace(/^(\d{2})(\d{2})?/, (match, p1, p2) => {
+                return p2 ? `${p1}/${p2}` : p1;
+            });
+            cardExpDate.innerHTML = `<time datetime="20${formattedDate.split("/")[1]}-${formattedDate.split("/")[0]}">${formattedDate || "MM/YY"}</time>`;
+        });
+    </script>
+
+    <div class="secsub2">
+        <div class="cartt">
+        <!-- <h2 id="heading2">
+            Cart Empty
+        </h2>     
+        <img src="cart.png" id="img2">
+        <p id="para">
+            Good food is always cooking!<br>Go ahead,order some yummy<br>items from the menu
+        </p> -->
+        <script src="addtocart.js" defer></script>
+        <div class="cart_items">
+            <h1 id="heading2">Cart
+            </h1>
+            <div class="listcart">
+                <div class="mitem1">
+                    <img src="mpizza.png" alt="" class="mimg">
+                    <h1 id="headgingm">PEPPORONI Pizza</h1>
+                    <h1 id="headgingm">$20</h1>                    <span id="plus">
+                        +
+                    </span>
+                    <span>
+                    1
+                    </span>
+                 
+                    <span id="minus">
+                        -
+                    </span>
+                </div>
+            </div>
+            <div class="total-price">
+                <div class="total">
+                <h2>Total Price: <span id="totalPrice">$0</span></h2></div>
+                <button id="buttoncheck"><img src="https://img.icons8.com/?size=30&id=100324&format=png&color=000000"></button>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      const socket = io();
+    
+      // Example: listen for an order status update
+      socket.on('orderStatus', (message) => {
+        console.log(message); // You can update the UI here to show the status
+      });
+    
+      // Example: emit an event to update the order status
+      function updateOrderStatus(status) {
+        socket.emit('updateStatus', status);
+      }
+    </script>
+</body>
+</html>
