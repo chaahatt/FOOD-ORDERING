@@ -18,3 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
     revealTransition().then(() => {
         gsap.set(".block", { visibility: "hidden" });
     });
+function revealTransition() {
+  
+        return new Promise((resolve) => {
+            gsap.fromTo(
+                ".block",
+                { scaleY: 1 },
+                {
