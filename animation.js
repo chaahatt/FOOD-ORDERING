@@ -40,3 +40,10 @@ ease: ease,
     }
 
     function animateOutTransition() {
+        
+        return new Promise((resolve) => {
+            gsap.set(".block", { visibility: "visible", scaleY: 0 });
+            gsap.to(".block", {
+                scaleY: 1,
+                duration: 1,
+
